@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pradeeprajagopal
+- 👋 Hi, I’m @pradeeprajagopal GOPher and Python developer | DevOps Professional | Cloud Developer | AWS Certified
 - 👀 I’m interested in making things easier for everyone
 - 💞️ I’m looking to collaborate on GO and Python Projects
 - 📫 Reach me pradeeprajagopal18@gmail.com or pradeep.rajagopal18@hotmail.com
